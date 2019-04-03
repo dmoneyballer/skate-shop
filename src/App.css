@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  display: flex;
+}
+#navlinks {
+  list-style-type: none;
+}
+
